@@ -10,11 +10,7 @@ Hi there! 👋 I'm Razam, a Computer Science student at Georgia Tech concentrati
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razam-sherwani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Razam's GitHub Stats" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=razam-sherwani&theme=dark&hide_border=false" alt="Razam's Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razam-sherwani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Razam's Top Languages" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
