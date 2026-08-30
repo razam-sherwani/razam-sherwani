@@ -3,9 +3,9 @@ Hi there! 👋 I'm Razam, a Computer Science student at Georgia Tech concentrati
 
 <br>Here is a quick snapshot of what I'm up to:<br>
 * 🔭 **Currently working on:** Building distributed backend systems as a Software Engineer for ByteFight, and co-authoring algorithmic graph theory research on spanning tree polynomials.
-* 🌱 **Currently learning:** Advanced AI infrastructure, vector search optimization, and building high-concurrency system tooling in Rust.
-* 💻 **Featured experience:** Backend Founding Engineer Intern at Lume Security (Rust/Kubernetes) & VR Security Engineer utilizing Locality-Sensitive Hashing.
-* 💬 **Ask me about:** Rust, backend microservices, algorithmic graph theory, and discrete mathematics (I'm a TA for CS 2050!).
+* 🌱 **Currently learning:** Event-driven architectures (RabbitMQ), secure CI/CD deployment pipelines, and code obfuscation techniques for automated bot evaluation.
+* 💻 **Featured experience:** Backend Founding Engineer Intern at Lume Security (Kubernetes/PostgreSQL) & Software Engineer for ByteFight (Spring Boot/RabbitMQ).
+* 💬 **Ask me about:** Backend microservices, theoretical computer science, algorithmic graph theory, and discrete mathematics (I'm a TA for CS 2050!).
 * ⚡ **Fun fact:** I navigate unfamiliar environments outside of opening new codebases. I've lived across 4 U.S. states, as well as growing up abroad with 5 years in China and Thailand each.
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@ Hi there! 👋 I'm Razam, a Computer Science student at Georgia Tech concentrati
 # 💻 Tech Stack:
 
 ### Languages
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Backend & Cloud Infrastructure
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
